@@ -17,7 +17,7 @@ Explore the world of a half-wave rectifier with both an inductive load and a fre
 
 ## Access the Practice Document 📄
 
-The practice document is available on Google Docs. You can access it [here](insert_your_google_docs_link_here).
+The practice document is available on Google Docs. You can access it [here](https://docs.google.com/document/d/1wCUzZzsdJT8SnEedVSRaJ2YjO6Ahd6AkfmzxlnhLP-8/edit?usp=sharing).
 
 ## Key Features 🛠️
 
